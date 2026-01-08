@@ -15,7 +15,7 @@ I'm currently retraining to become a **Fullstack Software Developer** and enjoyi
 <br>
 Always learning, always exploring new tools and best practices 🚀<br>
 - 🔭 I’m currently working on a Food Tracking App <br>
-- 🌱 I’m currently improving my JavaScript skills
+- 🌱 I’m currently improving my JavaScript and PostgreSQL skills
 
 ### 🎮 Hobbies
 When I'm not coding, you’ll probably find me:
