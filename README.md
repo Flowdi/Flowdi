@@ -5,7 +5,8 @@ I'm currently retraining to become a **Fullstack Software Developer** and enjoyi
 ### 🧑‍💻 Tech Stack (so far)
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Basic PHP, Python (beginner)  
-- **Databases:** PostgreSQL, MySQL  
+- **Databases:** PostgreSQL, MySQL
+- **Utility:** Github
 
 ### 📁 Projects
 - **First own website**
