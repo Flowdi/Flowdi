@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Flo
 
 I'm currently retraining to become a **Fullstack Software Developer** with a strong focus on building practical projects and continuously improving my skills.  
 I enjoy turning ideas into working applications and learning new technologies step by step.
