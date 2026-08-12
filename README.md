@@ -1,81 +1,69 @@
-# Hi there 👋 I'm Flo
+# Florian Dumler
 
-I'm currently retraining to become a **Fullstack Software Developer** with a strong focus on building practical projects and continuously improving my skills.  
-I enjoy turning ideas into working applications and learning new technologies step by step.
+Full-Stack Developer based in Augsburg, Germany, with a focus on web development, Python and automation.
 
----
+I enjoy turning unclear problems into structured, practical solutions. My path into software development grew out of a long-standing interest in technology, gaming and hands-on work. Today, I build personal projects to deepen my skills across frontend, backend and data-driven applications.
 
-## 🚀 About Me
-- 👨‍💻 Aspiring **Fullstack Developer**
-- 🛠️ Hands-on learner who prefers learning by building real projects
-- 📈 Always curious about best practices, clean code & modern web development
-- 🎯 Goal: Become a confident and versatile software developer
+[Portfolio](https://www.floriandumler.de) · [LinkedIn](https://www.linkedin.com/in/floriandumler) · [Xing](https://www.xing.com/profile/Florian_Dumler)
 
----
+## Current focus
 
-## 🧑‍💻 Tech Stack (so far)
+- improving my Python skills and learning automation in depth
+- developing a larger food application as a long-term full-stack project
+- strengthening JavaScript, databases and the interaction between frontend and backend
+- building accessible, responsive and maintainable web interfaces
+- improving my Git and GitHub workflow through practical project work
 
-### 🌐 Frontend
-- HTML5  
-- CSS3 (Flexbox, basic responsive design)  
-- JavaScript (DOM manipulation, fundamentals)
+## Skills
 
-### ⚙️ Backend
-- PHP (basics)
-- Python (beginner, learning fundamentals & logic)
+### Regularly used
 
-### 🗄️ Databases
-- PostgreSQL  
-- MySQL  
+- HTML5 and semantic markup
+- CSS3, responsive layouts and accessible interfaces
+- Git, GitHub and common development tools
 
-### 🧰 Tools & Workflow
-- Git & GitHub  
-- VS Code  
-- Basic CLI usage  
+### Currently deepening
 
----
+- Python and automation
+- JavaScript and browser APIs
+- databases and data modelling
+- hosting, Linux server administration and web security
+- full-stack application architecture
 
-## 📁 Projects
+### Exploring through projects
 
-- 🌐 **First Own Website**  
-  My very first steps into web development using HTML & CSS.
+- Canvas-based game development
+- frameworks and libraries
+- deployment workflows and server automation
 
-- 🎮 **"Kot" Game**  
-  A small browser-based platformer game built with JavaScript.
+I prefer to describe my skills by how I use them rather than through artificial percentages. The repositories below show both completed work and areas in which I am still learning.
 
-- 💼 **Portfolio Website**  
-  A personal portfolio to showcase my skills and projects.
+## Selected projects
 
-- 🚀 **Improved Portfolio Website**  
-  A redesigned and improved version with better structure, cleaner code, and improved UI.
+### [Portfolio Website](https://github.com/Flowdi/Portfolio-Website)
 
----
+A bilingual and responsive portfolio built with HTML, CSS and vanilla JavaScript. It includes centrally managed project data, reusable project detail pages, theme switching, an accessible certificate viewer, SEO metadata and a hardened production setup on an Ubuntu/Nginx server.
 
-## 🔭 Currently Working On
-- 🍔 **Food Tracking App**  
-  A project to practice fullstack concepts, data handling, and database integration.
+Live: [www.floriandumler.de](https://www.floriandumler.de)
 
----
+### [Creative Portfolio Interactive UI Experiment](https://github.com/Flowdi/Creative-Portfolio-Interactive-UI-Experiment)
 
-## 🌱 Currently Learning
-- Deepening my **JavaScript** knowledge  
-- Improving **PostgreSQL** and database design  
-- Writing cleaner, more structured code  
-- Understanding backend–frontend interaction  
+An experimental portfolio interface with a space-inspired visual system, Canvas animation, orbit navigation and a modular JavaScript frontend. The project explores interaction design beyond conventional portfolio layouts.
 
----
+### [FlosFoodApp](https://github.com/Flowdi/FlosFoodApp)
 
-## 🎮 Hobbies & Interests
-When I'm not coding, you’ll probably find me:
-- 🎮 Gaming  
-- 🌲 Enjoying nature and spending time outdoors  
-- 🧠 Learning new things and improving myself  
+My long-term project around food tracking, planning, data handling and intelligent automation. It serves as the main environment for improving my Python, database and full-stack development skills.
 
----
+### [Dung Dash](https://github.com/Flowdi/dung-dash)
 
-## 📌 Philosophy
-> Always learning, always building, always improving 🚀  
+A browser-based JavaScript platformer and one of my first larger interactive projects. The next stage focuses on technical cleanup, visual improvements and better mobile controls.
 
-More to come over the next months as my journey continues 😊  
-Feel free to check back or explore my repositories!
+### [Fashion and Cooking Blog Website](https://github.com/Flowdi/Fashion-and-Cooking-Blog-Website)
 
+A planned website combining fashion and cooking content. The project is currently in its early concept and development phase.
+
+## How I work
+
+I work in a structured, ambitious and detail-oriented way. What I value most about development is the variety: understanding a problem, breaking it into manageable parts and gradually turning it into a reliable solution.
+
+Outside development, I enjoy gaming, sports and hiking. I am open to professional exchange, feedback and remote collaboration.
