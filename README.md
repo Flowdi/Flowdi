@@ -12,7 +12,7 @@ I enjoy turning unclear problems into structured, practical solutions. My path i
 - developing a larger food application as a long-term full-stack project
 - strengthening JavaScript, databases and the interaction between frontend and backend
 - building accessible, responsive and maintainable web interfaces
-- improving my Git and GitHub workflow through practical project work
+- improving deployment, Linux server administration and web security through practical project work
 
 ## Skills
 
@@ -42,21 +42,25 @@ I prefer to describe my skills by how I use them rather than through artificial 
 
 ### [Portfolio Website](https://github.com/Flowdi/Portfolio-Website)
 
-A bilingual and responsive portfolio built with HTML, CSS and vanilla JavaScript. It includes centrally managed project data, reusable project detail pages, theme switching, an accessible certificate viewer, SEO metadata and a hardened production setup on an Ubuntu/Nginx server.
+A bilingual and responsive portfolio built with HTML, CSS and vanilla JavaScript. It includes centrally managed case studies, theme switching, an accessible certificate viewer, two integrated live demos, SEO metadata and a hardened production setup on an Ubuntu/Nginx server.
 
 Live: [www.floriandumler.de](https://www.floriandumler.de)
 
+### [Dung Dash](https://github.com/Flowdi/dung-dash)
+
+A browser-based JavaScript and Canvas platformer with several levels, keyboard and touch controls, missions, achievements, persistent progress, scoring combos and automated gameplay tests.
+
+Play it: [Dung Dash live demo](https://www.floriandumler.de/game/)
+
 ### [Creative Portfolio Interactive UI Experiment](https://github.com/Flowdi/Creative-Portfolio-Interactive-UI-Experiment)
 
-An experimental portfolio interface with a space-inspired visual system, Canvas animation, orbit navigation and a modular JavaScript frontend. The project explores interaction design beyond conventional portfolio layouts.
+An experimental bilingual portfolio interface with a space-inspired visual system, Canvas animation, orbit navigation, accessible input handling and a modular JavaScript frontend. It explores interaction design beyond conventional portfolio layouts while remaining usable with mouse, touch and keyboard.
+
+Explore it: [Creative Portfolio live demo](https://www.floriandumler.de/creative-portfolio/)
 
 ### [FlosFoodApp](https://github.com/Flowdi/FlosFoodApp)
 
 My long-term project around food tracking, planning, data handling and intelligent automation. It serves as the main environment for improving my Python, database and full-stack development skills.
-
-### [Dung Dash](https://github.com/Flowdi/dung-dash)
-
-A browser-based JavaScript platformer and one of my first larger interactive projects. The next stage focuses on technical cleanup, visual improvements and better mobile controls.
 
 ### [Fashion and Cooking Blog Website](https://github.com/Flowdi/Fashion-and-Cooking-Blog-Website)
 
