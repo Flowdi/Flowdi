@@ -4,7 +4,7 @@ Full-Stack Developer based in Augsburg, Germany, with a focus on web development
 
 I enjoy turning unclear problems into structured, practical solutions. My path into software development grew out of a long-standing interest in technology, gaming and hands-on work. Today, I build personal projects to deepen my skills across frontend, backend and data-driven applications.
 
-[Portfolio](https://www.floriandumler.de) · [LinkedIn](https://www.linkedin.com/in/floriandumler) · [Xing](https://www.xing.com/profile/Florian_Dumler)
+[Portfolio](https://florian-dumler.de)
 
 ## Current focus
 
@@ -44,19 +44,19 @@ I prefer to describe my skills by how I use them rather than through artificial 
 
 A bilingual and responsive portfolio built with HTML, CSS and vanilla JavaScript. It includes centrally managed case studies, theme switching, an accessible certificate viewer, two integrated live demos, SEO metadata and a hardened production setup on an Ubuntu/Nginx server.
 
-Live: [www.floriandumler.de](https://www.floriandumler.de)
+Live: [florian-dumler.de](https://florian-dumler.de)
 
 ### [Dung Dash](https://github.com/Flowdi/dung-dash)
 
 A browser-based JavaScript and Canvas platformer with several levels, keyboard and touch controls, missions, achievements, persistent progress, scoring combos and automated gameplay tests.
 
-Play it: [Dung Dash live demo](https://www.floriandumler.de/game/)
+Play it: [Dung Dash live demo](https://florian-dumler.de/game/)
 
 ### [Creative Portfolio Interactive UI Experiment](https://github.com/Flowdi/Creative-Portfolio-Interactive-UI-Experiment)
 
 An experimental bilingual portfolio interface with a space-inspired visual system, Canvas animation, orbit navigation, accessible input handling and a modular JavaScript frontend. It explores interaction design beyond conventional portfolio layouts while remaining usable with mouse, touch and keyboard.
 
-Explore it: [Creative Portfolio live demo](https://www.floriandumler.de/creative-portfolio/)
+Explore it: [Creative Portfolio live demo](https://florian-dumler.de/creative-portfolio/)
 
 ### [FlosFoodApp](https://github.com/Flowdi/FlosFoodApp)
 
